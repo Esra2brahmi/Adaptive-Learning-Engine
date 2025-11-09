@@ -1,0 +1,78 @@
+{
+  "feature_usefulness": {
+    "ablation_table": [
+      {
+        "Feature Set": "Baseline (Rubric + Metadata)",
+        "R\u00b2 (Regression)": -0.6337730862509348,
+        "MAE (Regression)": 18.990431919767936,
+        "Accuracy (Classification)": 0.3333333333333333,
+        "AUC (Classification)": 0.35,
+        "Num Features": 5
+      },
+      {
+        "Feature Set": "Full (Baseline + LLM)",
+        "R\u00b2 (Regression)": -3.8609304471544377,
+        "MAE (Regression)": 32.681102942452625,
+        "Accuracy (Classification)": 0.3333333333333333,
+        "AUC (Classification)": 0.35,
+        "Num Features": 12
+      },
+      {
+        "Feature Set": "LLM Only",
+        "R\u00b2 (Regression)": -1.3398014556689501,
+        "MAE (Regression)": 21.87781432294796,
+        "Accuracy (Classification)": 0.5,
+        "AUC (Classification)": 0.0,
+        "Num Features": 7
+      }
+    ],
+    "summary": {
+      "llm_feature_r2_improvement_pct": -509.1976025668198,
+      "llm_feature_auc_improvement_pct": 0.0,
+      "best_r2": -0.6337730862509348,
+      "best_auc": 0.35
+    }
+  },
+  "policy_performance": {
+    "comparison_table": [
+      {
+        "Policy": "LinUCB",
+        "Avg Reward": -0.004722222222222223,
+        "Std Reward": 0.07260190044146517,
+        "Avg \u0394overall": -1.7222222222222223,
+        "% Positive \u0394overall": 44.44444444444444,
+        "Total Positive Steps": 8,
+        "Total Negative Steps": 10
+      },
+      {
+        "Policy": "Weakest-Skill-First",
+        "Avg Reward": 0.001111111111111109,
+        "Std Reward": 0.1676038357306717,
+        "Avg \u0394overall": -1.7222222222222223,
+        "% Positive \u0394overall": 44.44444444444444,
+        "Total Positive Steps": 8,
+        "Total Negative Steps": 10
+      },
+      {
+        "Policy": "Random",
+        "Avg Reward": -0.03422222222222223,
+        "Std Reward": 0.21439560892001266,
+        "Avg \u0394overall": -1.7222222222222223,
+        "% Positive \u0394overall": 44.44444444444444,
+        "Total Positive Steps": 8,
+        "Total Negative Steps": 10
+      }
+    ],
+    "summary": {
+      "linucb_avg_reward": -0.004722222222222223,
+      "linucb_vs_baseline_pct": -525.0000000000009,
+      "linucb_vs_random_pct": 86.2012987012987,
+      "linucb_positive_delta_pct": 44.44444444444444
+    }
+  },
+  "alignment_sanity": {
+    "matches_weakest_rubric_pct": 0.21052631578947367,
+    "matches_llm_weakness_pct": 0.2631578947368421,
+    "total_sessions_analyzed": 19
+  }
+}

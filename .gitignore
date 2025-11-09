@@ -89,8 +89,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-# data files (adjust if you want to include small example datasets)
-/data/
 
 # caches
 /.cache

@@ -1,0 +1,819 @@
+[
+  {
+    "session_number": 1,
+    "policy_decision": {
+      "selected_action": "clarity",
+      "reward": 0.0,
+      "ucb_scores": {
+        "clarity": 2.00660291709291,
+        "active_listening": 2.00660291709291,
+        "call_to_action": 2.00660291709291,
+        "friendliness": 2.00660291709291
+      }
+    },
+    "coaching_card": {
+      "session_idx": 0,
+      "focus_skill": "Clarity & Enthusiasm",
+      "why_this_focus": "Your clarity metrics suggest room for sharper, more compelling messaging about our gaming community's value.",
+      "micro_exercises": [
+        "Record yourself explaining our gaming community in 30 seconds. Count filler words ('um', 'like'). Aim for under 3.",
+        "Write your top 3 selling points for our gaming community. Practice delivering each in one breath.",
+        "Before your next call, create a 'hook sentence' that captures our gaming community's unique appeal in under 15 words."
+      ],
+      "word_count": 68
+    },
+    "practice_scenario": {
+      "session_idx": 0,
+      "focus_skill": "Clarity",
+      "difficulty": 0.45,
+      "persona": "Professional, 42, time-conscious, wants efficiency and clear benefits",
+      "opening_objection": "I've heard of this game, but I'm not really sure what makes it special. Can you explain?",
+      "follow_ups": [
+        "You're giving me a lot of information... can you just give me the main reason to try it?",
+        "I still don't get it. What would my first hour actually look like?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "They interrupt after 90 seconds: \"Can you wrap this up? I have another call.\"",
+        "Stronger Skepticism": "They push back twice as hard: \"My friend said this game is overhyped. Prove them wrong.\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 41.25,
+      "improvement_rate": 0.0
+    }
+  },
+  {
+    "session_number": 2,
+    "policy_decision": {
+      "selected_action": "clarity",
+      "reward": 0.05600000000000001,
+      "ucb_scores": {
+        "clarity": 2.1083026525072244,
+        "active_listening": 2.1083026525072244,
+        "call_to_action": 2.1083026525072244,
+        "friendliness": 2.1083026525072244
+      }
+    },
+    "coaching_card": {
+      "session_idx": 1,
+      "focus_skill": "Clarity & Enthusiasm",
+      "why_this_focus": "Your clarity metrics suggest room for sharper, more compelling messaging about our gaming community's value.",
+      "micro_exercises": [
+        "Record yourself explaining our gaming community in 30 seconds. Count filler words ('um', 'like'). Aim for under 3.",
+        "Write your top 3 selling points for our gaming community. Practice delivering each in one breath.",
+        "Before your next call, create a 'hook sentence' that captures our gaming community's unique appeal in under 15 words."
+      ],
+      "word_count": 68
+    },
+    "practice_scenario": {
+      "session_idx": 1,
+      "focus_skill": "Clarity",
+      "difficulty": 0.45,
+      "persona": "Busy parent, 35, skeptical of gaming, needs clear value proposition",
+      "opening_objection": "Why should I play this instead of [popular alternative]? What's the difference?",
+      "follow_ups": [
+        "You're giving me a lot of information... can you just give me the main reason to try it?",
+        "I still don't get it. What would my first hour actually look like?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "They interrupt after 90 seconds: \"Can you wrap this up? I have another call.\"",
+        "Stronger Skepticism": "They push back twice as hard: \"My friend said this game is overhyped. Prove them wrong.\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 55.25,
+      "improvement_rate": 0.14
+    }
+  },
+  {
+    "session_number": 3,
+    "policy_decision": {
+      "selected_action": "active_listening",
+      "reward": 0.05600000000000001,
+      "ucb_scores": {
+        "clarity": 0.8716040687047516,
+        "active_listening": 1.9027804663058638,
+        "call_to_action": 1.9027804663058638,
+        "friendliness": 1.9027804663058638
+      }
+    },
+    "coaching_card": {
+      "session_idx": 2,
+      "focus_skill": "Active Listening & Objection Handling",
+      "why_this_focus": "You asked questions in only 0% of turns. More questions = deeper understanding of their needs.",
+      "micro_exercises": [
+        "During your next conversation, repeat back the prospect's concern in your own words before responding.",
+        "Create a list of 5 common objections. For each, write a validating phrase (e.g., 'I hear that...').",
+        "Practice the 3-second pause: After they finish speaking, count to 3 before you respond. Notice what you catch."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 2,
+      "focus_skill": "Active Listening",
+      "difficulty": 0.45,
+      "persona": "Anxious newcomer, 25, worried about skill level and fitting in",
+      "opening_objection": "I tried a game like this before and the community was toxic. How is this different?",
+      "follow_ups": [
+        "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?",
+        "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+      ],
+      "difficulty_toggles": {
+        "Multiple Concerns": "They layer 3 objections at once instead of 1.",
+        "Emotional Intensity": "They sound frustrated/anxious; mishandling tone ends the call."
+      }
+    },
+    "current_performance": {
+      "overall_score": 69.25,
+      "improvement_rate": 0.14
+    }
+  },
+  {
+    "session_number": 4,
+    "policy_decision": {
+      "selected_action": "call_to_action",
+      "reward": -0.137,
+      "ucb_scores": {
+        "clarity": 0.9922567077442027,
+        "active_listening": 1.0532137594816318,
+        "call_to_action": 1.8715327319057453,
+        "friendliness": 1.8715327319057453
+      }
+    },
+    "coaching_card": {
+      "session_idx": 3,
+      "focus_skill": "Effective Call to Action",
+      "why_this_focus": "Your closing invitations could be more concrete and easier for prospects to act on.",
+      "micro_exercises": [
+        "Write 3 versions of your closing invitation. Each must include a specific day/time option.",
+        "Practice saying: 'Based on what you've shared, I think [specific session] would be perfect. Can you join us Thursday at 7 PM?'",
+        "Role-play with a friend: Give them an objection, then practice pivoting to a concrete next step."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 3,
+      "focus_skill": "Call To Action",
+      "difficulty": 0.45,
+      "persona": "Interested but non-committal, 30, needs gentle push to concrete action",
+      "opening_objection": "This sounds interesting, but I need to think about it. Can I get back to you?",
+      "follow_ups": [
+        "That's a lot to consider. What exactly are you asking me to do right now?",
+        "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "You have only 2 minutes to secure commitment before they \"have to go.\"",
+        "Analysis Paralysis": "They ask for 3+ more details before committing; you must redirect firmly but kindly."
+      }
+    },
+    "current_performance": {
+      "overall_score": 35.0,
+      "improvement_rate": -0.3425
+    }
+  },
+  {
+    "session_number": 5,
+    "policy_decision": {
+      "selected_action": "friendliness",
+      "reward": 0.062,
+      "ucb_scores": {
+        "clarity": 0.9766955505168043,
+        "active_listening": 1.0483102989944781,
+        "call_to_action": 1.0025193737638658,
+        "friendliness": 2.07896443113331
+      }
+    },
+    "coaching_card": {
+      "session_idx": 4,
+      "focus_skill": "Friendliness & Respectful Tone",
+      "why_this_focus": "Your tone could benefit from more warmth and personal connection to put prospects at ease.",
+      "micro_exercises": [
+        "Start your next call by finding one genuine commonality with the prospect within the first 2 minutes.",
+        "Record yourself speaking. Listen back: Do you sound like you're smiling? Adjust your tone to sound warmer.",
+        "Practice using their name 2-3 times naturally during the conversation. Notice how it changes the dynamic."
+      ],
+      "word_count": 65
+    },
+    "practice_scenario": {
+      "session_idx": 4,
+      "focus_skill": "Friendliness",
+      "difficulty": 0.45,
+      "persona": "Lonely player, 31, craves community but fears rejection",
+      "opening_objection": "I don't know anyone who plays this. Would I just be joining random strangers?",
+      "follow_ups": [
+        "You seem nice, but I'm still not convinced this is for someone like me.",
+        "How do I know the other players will be welcoming? I've had bad experiences."
+      ],
+      "difficulty_toggles": {
+        "Cold Opening": "They start defensive: \"Make this quick. I don't have much time.\"",
+        "Trust Test": "They explicitly test if you're authentic: \"Are you reading from a script?\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 50.5,
+      "improvement_rate": 0.155
+    }
+  },
+  {
+    "session_number": 6,
+    "policy_decision": {
+      "selected_action": "active_listening",
+      "reward": 0.032,
+      "ucb_scores": {
+        "clarity": 0.9822713743421241,
+        "active_listening": 1.0581457192866845,
+        "call_to_action": 1.0114523229698316,
+        "friendliness": 0.9984223602297171
+      }
+    },
+    "coaching_card": {
+      "session_idx": 5,
+      "focus_skill": "Active Listening & Objection Handling",
+      "why_this_focus": "You asked questions in only 7% of turns. More questions = deeper understanding of their needs.",
+      "micro_exercises": [
+        "During your next conversation, repeat back the prospect's concern in your own words before responding.",
+        "Create a list of 5 common objections. For each, write a validating phrase (e.g., 'I hear that...').",
+        "Practice the 3-second pause: After they finish speaking, count to 3 before you respond. Notice what you catch."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 5,
+      "focus_skill": "Active Listening",
+      "difficulty": 0.45,
+      "persona": "Critical thinker, 38, asks probing questions to test your knowledge",
+      "opening_objection": "I'm interested, but I have some concerns about the time commitment and learning curve.",
+      "follow_ups": [
+        "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?",
+        "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+      ],
+      "difficulty_toggles": {
+        "Multiple Concerns": "They layer 3 objections at once instead of 1.",
+        "Emotional Intensity": "They sound frustrated/anxious; mishandling tone ends the call."
+      }
+    },
+    "current_performance": {
+      "overall_score": 58.5,
+      "improvement_rate": 0.08
+    }
+  },
+  {
+    "session_number": 7,
+    "policy_decision": {
+      "selected_action": "friendliness",
+      "reward": -0.016,
+      "ucb_scores": {
+        "clarity": 1.006573125193154,
+        "active_listening": 0.7715533833193167,
+        "call_to_action": 0.9875292596975286,
+        "friendliness": 1.0125510997035336
+      }
+    },
+    "coaching_card": {
+      "session_idx": 6,
+      "focus_skill": "Friendliness & Respectful Tone",
+      "why_this_focus": "Your tone could benefit from more warmth and personal connection to put prospects at ease.",
+      "micro_exercises": [
+        "Start your next call by finding one genuine commonality with the prospect within the first 2 minutes.",
+        "Record yourself speaking. Listen back: Do you sound like you're smiling? Adjust your tone to sound warmer.",
+        "Practice using their name 2-3 times naturally during the conversation. Notice how it changes the dynamic."
+      ],
+      "word_count": 65
+    },
+    "practice_scenario": {
+      "session_idx": 6,
+      "focus_skill": "Friendliness",
+      "difficulty": 0.45,
+      "persona": "Lonely player, 31, craves community but fears rejection",
+      "opening_objection": "I don't know anyone who plays this. Would I just be joining random strangers?",
+      "follow_ups": [
+        "You seem nice, but I'm still not convinced this is for someone like me.",
+        "How do I know the other players will be welcoming? I've had bad experiences."
+      ],
+      "difficulty_toggles": {
+        "Cold Opening": "They start defensive: \"Make this quick. I don't have much time.\"",
+        "Trust Test": "They explicitly test if you're authentic: \"Are you reading from a script?\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 54.5,
+      "improvement_rate": -0.04
+    }
+  },
+  {
+    "session_number": 8,
+    "policy_decision": {
+      "selected_action": "clarity",
+      "reward": -0.17700000000000002,
+      "ucb_scores": {
+        "clarity": 1.1037500720660727,
+        "active_listening": 0.9364331690807847,
+        "call_to_action": 0.8596892246092771,
+        "friendliness": 0.8504561399986328
+      }
+    },
+    "coaching_card": {
+      "session_idx": 7,
+      "focus_skill": "Clarity & Enthusiasm",
+      "why_this_focus": "Your clarity metrics suggest room for sharper, more compelling messaging about our gaming community's value.",
+      "micro_exercises": [
+        "Record yourself explaining our gaming community in 30 seconds. Count filler words ('um', 'like'). Aim for under 3.",
+        "Write your top 3 selling points for our gaming community. Practice delivering each in one breath.",
+        "Before your next call, create a 'hook sentence' that captures our gaming community's unique appeal in under 15 words."
+      ],
+      "word_count": 68
+    },
+    "practice_scenario": {
+      "session_idx": 7,
+      "focus_skill": "Clarity",
+      "difficulty": 0.45,
+      "persona": "Professional, 42, time-conscious, wants efficiency and clear benefits",
+      "opening_objection": "Okay, so... what exactly would I be doing? I'm kind of confused about the gameplay.",
+      "follow_ups": [
+        "You're giving me a lot of information... can you just give me the main reason to try it?",
+        "I still don't get it. What would my first hour actually look like?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "They interrupt after 90 seconds: \"Can you wrap this up? I have another call.\"",
+        "Stronger Skepticism": "They push back twice as hard: \"My friend said this game is overhyped. Prove them wrong.\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 10.25,
+      "improvement_rate": -0.4425
+    }
+  },
+  {
+    "session_number": 9,
+    "policy_decision": {
+      "selected_action": "call_to_action",
+      "reward": 0.021,
+      "ucb_scores": {
+        "clarity": 0.7066480250937769,
+        "active_listening": 0.8295021923987264,
+        "call_to_action": 0.9243264697096524,
+        "friendliness": 0.7824421467576752
+      }
+    },
+    "coaching_card": {
+      "session_idx": 8,
+      "focus_skill": "Effective Call to Action",
+      "why_this_focus": "Your closing invitations could be more concrete and easier for prospects to act on.",
+      "micro_exercises": [
+        "Write 3 versions of your closing invitation. Each must include a specific day/time option.",
+        "Practice saying: 'Based on what you've shared, I think [specific session] would be perfect. Can you join us Thursday at 7 PM?'",
+        "Role-play with a friend: Give them an objection, then practice pivoting to a concrete next step."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 8,
+      "focus_skill": "Call To Action",
+      "difficulty": 0.45,
+      "persona": "Interested but non-committal, 30, needs gentle push to concrete action",
+      "opening_objection": "This sounds interesting, but I need to think about it. Can I get back to you?",
+      "follow_ups": [
+        "That's a lot to consider. What exactly are you asking me to do right now?",
+        "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "You have only 2 minutes to secure commitment before they \"have to go.\"",
+        "Analysis Paralysis": "They ask for 3+ more details before committing; you must redirect firmly but kindly."
+      }
+    },
+    "current_performance": {
+      "overall_score": 15.5,
+      "improvement_rate": 0.0525
+    }
+  },
+  {
+    "session_number": 10,
+    "policy_decision": {
+      "selected_action": "active_listening",
+      "reward": -0.022000000000000002,
+      "ucb_scores": {
+        "clarity": 0.7439256200719229,
+        "active_listening": 0.9075577826146767,
+        "call_to_action": 0.7062811918385394,
+        "friendliness": 0.8474629713212866
+      }
+    },
+    "coaching_card": {
+      "session_idx": 9,
+      "focus_skill": "Active Listening & Objection Handling",
+      "why_this_focus": "You asked questions in only 0% of turns. More questions = deeper understanding of their needs.",
+      "micro_exercises": [
+        "During your next conversation, repeat back the prospect's concern in your own words before responding.",
+        "Create a list of 5 common objections. For each, write a validating phrase (e.g., 'I hear that...').",
+        "Practice the 3-second pause: After they finish speaking, count to 3 before you respond. Notice what you catch."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 9,
+      "focus_skill": "Active Listening",
+      "difficulty": 0.45,
+      "persona": "Former gamer, 28, burned out, has specific past negative experiences",
+      "opening_objection": "I tried a game like this before and the community was toxic. How is this different?",
+      "follow_ups": [
+        "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?",
+        "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+      ],
+      "difficulty_toggles": {
+        "Multiple Concerns": "They layer 3 objections at once instead of 1.",
+        "Emotional Intensity": "They sound frustrated/anxious; mishandling tone ends the call."
+      }
+    },
+    "current_performance": {
+      "overall_score": 10.0,
+      "improvement_rate": -0.055
+    }
+  },
+  {
+    "session_number": 11,
+    "policy_decision": {
+      "selected_action": "call_to_action",
+      "reward": 0.034999999999999996,
+      "ucb_scores": {
+        "clarity": 0.7785677537819173,
+        "active_listening": 0.6937059986192018,
+        "call_to_action": 0.8283212226504506,
+        "friendliness": 0.7972276359480155
+      }
+    },
+    "coaching_card": {
+      "session_idx": 10,
+      "focus_skill": "Effective Call to Action",
+      "why_this_focus": "Your closing invitations could be more concrete and easier for prospects to act on.",
+      "micro_exercises": [
+        "Write 3 versions of your closing invitation. Each must include a specific day/time option.",
+        "Practice saying: 'Based on what you've shared, I think [specific session] would be perfect. Can you join us Thursday at 7 PM?'",
+        "Role-play with a friend: Give them an objection, then practice pivoting to a concrete next step."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 10,
+      "focus_skill": "Call To Action",
+      "difficulty": 0.45,
+      "persona": "Interested but non-committal, 30, needs gentle push to concrete action",
+      "opening_objection": "I'm not sure I'm ready to commit to a session yet. What if I just lurk first?",
+      "follow_ups": [
+        "That's a lot to consider. What exactly are you asking me to do right now?",
+        "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "You have only 2 minutes to secure commitment before they \"have to go.\"",
+        "Analysis Paralysis": "They ask for 3+ more details before committing; you must redirect firmly but kindly."
+      }
+    },
+    "current_performance": {
+      "overall_score": 18.75,
+      "improvement_rate": 0.0875
+    }
+  },
+  {
+    "session_number": 12,
+    "policy_decision": {
+      "selected_action": "friendliness",
+      "reward": -0.011000000000000001,
+      "ucb_scores": {
+        "clarity": 0.7872436700956955,
+        "active_listening": 0.7465814998861665,
+        "call_to_action": 0.6679224070378401,
+        "friendliness": 0.8742277301263621
+      }
+    },
+    "coaching_card": {
+      "session_idx": 11,
+      "focus_skill": "Friendliness & Respectful Tone",
+      "why_this_focus": "Your tone could benefit from more warmth and personal connection to put prospects at ease.",
+      "micro_exercises": [
+        "Start your next call by finding one genuine commonality with the prospect within the first 2 minutes.",
+        "Record yourself speaking. Listen back: Do you sound like you're smiling? Adjust your tone to sound warmer.",
+        "Practice using their name 2-3 times naturally during the conversation. Notice how it changes the dynamic."
+      ],
+      "word_count": 65
+    },
+    "practice_scenario": {
+      "session_idx": 11,
+      "focus_skill": "Friendliness",
+      "difficulty": 0.45,
+      "persona": "Lonely player, 31, craves community but fears rejection",
+      "opening_objection": "I don't know anyone who plays this. Would I just be joining random strangers?",
+      "follow_ups": [
+        "You seem nice, but I'm still not convinced this is for someone like me.",
+        "How do I know the other players will be welcoming? I've had bad experiences."
+      ],
+      "difficulty_toggles": {
+        "Cold Opening": "They start defensive: \"Make this quick. I don't have much time.\"",
+        "Trust Test": "They explicitly test if you're authentic: \"Are you reading from a script?\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 16.0,
+      "improvement_rate": -0.0275
+    }
+  },
+  {
+    "session_number": 13,
+    "policy_decision": {
+      "selected_action": "clarity",
+      "reward": -0.024,
+      "ucb_scores": {
+        "clarity": 0.7517270751450142,
+        "active_listening": 0.7323788574249044,
+        "call_to_action": 0.6395131015113106,
+        "friendliness": 0.6741008879414151
+      }
+    },
+    "coaching_card": {
+      "session_idx": 12,
+      "focus_skill": "Clarity & Enthusiasm",
+      "why_this_focus": "Your clarity metrics suggest room for sharper, more compelling messaging about our gaming community's value.",
+      "micro_exercises": [
+        "Record yourself explaining our gaming community in 30 seconds. Count filler words ('um', 'like'). Aim for under 3.",
+        "Write your top 3 selling points for our gaming community. Practice delivering each in one breath.",
+        "Before your next call, create a 'hook sentence' that captures our gaming community's unique appeal in under 15 words."
+      ],
+      "word_count": 68
+    },
+    "practice_scenario": {
+      "session_idx": 12,
+      "focus_skill": "Clarity",
+      "difficulty": 0.45,
+      "persona": "Professional, 42, time-conscious, wants efficiency and clear benefits",
+      "opening_objection": "I've heard of this game, but I'm not really sure what makes it special. Can you explain?",
+      "follow_ups": [
+        "You're giving me a lot of information... can you just give me the main reason to try it?",
+        "I still don't get it. What would my first hour actually look like?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "They interrupt after 90 seconds: \"Can you wrap this up? I have another call.\"",
+        "Stronger Skepticism": "They push back twice as hard: \"My friend said this game is overhyped. Prove them wrong.\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 10.0,
+      "improvement_rate": -0.06
+    }
+  },
+  {
+    "session_number": 14,
+    "policy_decision": {
+      "selected_action": "active_listening",
+      "reward": 0.0,
+      "ucb_scores": {
+        "clarity": 0.6339646783444444,
+        "active_listening": 0.7651246937661841,
+        "call_to_action": 0.694429612090447,
+        "friendliness": 0.6941249240378685
+      }
+    },
+    "coaching_card": {
+      "session_idx": 13,
+      "focus_skill": "Active Listening & Objection Handling",
+      "why_this_focus": "You asked questions in only 0% of turns. More questions = deeper understanding of their needs.",
+      "micro_exercises": [
+        "During your next conversation, repeat back the prospect's concern in your own words before responding.",
+        "Create a list of 5 common objections. For each, write a validating phrase (e.g., 'I hear that...').",
+        "Practice the 3-second pause: After they finish speaking, count to 3 before you respond. Notice what you catch."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 13,
+      "focus_skill": "Active Listening",
+      "difficulty": 0.45,
+      "persona": "Critical thinker, 38, asks probing questions to test your knowledge",
+      "opening_objection": "I'm interested, but I have some concerns about the time commitment and learning curve.",
+      "follow_ups": [
+        "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?",
+        "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+      ],
+      "difficulty_toggles": {
+        "Multiple Concerns": "They layer 3 objections at once instead of 1.",
+        "Emotional Intensity": "They sound frustrated/anxious; mishandling tone ends the call."
+      }
+    },
+    "current_performance": {
+      "overall_score": 10.0,
+      "improvement_rate": 0.0
+    }
+  },
+  {
+    "session_number": 15,
+    "policy_decision": {
+      "selected_action": "call_to_action",
+      "reward": 0.133,
+      "ucb_scores": {
+        "clarity": 0.7931837473042289,
+        "active_listening": 0.7068214174821231,
+        "call_to_action": 0.8113570985380372,
+        "friendliness": 0.7936107554199242
+      }
+    },
+    "coaching_card": {
+      "session_idx": 14,
+      "focus_skill": "Effective Call to Action",
+      "why_this_focus": "Your closing invitations could be more concrete and easier for prospects to act on.",
+      "micro_exercises": [
+        "Write 3 versions of your closing invitation. Each must include a specific day/time option.",
+        "Practice saying: 'Based on what you've shared, I think [specific session] would be perfect. Can you join us Thursday at 7 PM?'",
+        "Role-play with a friend: Give them an objection, then practice pivoting to a concrete next step."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 14,
+      "focus_skill": "Call To Action",
+      "difficulty": 0.45,
+      "persona": "Schedule-juggler, 29, needs very specific timing options",
+      "opening_objection": "I'm not sure I'm ready to commit to a session yet. What if I just lurk first?",
+      "follow_ups": [
+        "That's a lot to consider. What exactly are you asking me to do right now?",
+        "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "You have only 2 minutes to secure commitment before they \"have to go.\"",
+        "Analysis Paralysis": "They ask for 3+ more details before committing; you must redirect firmly but kindly."
+      }
+    },
+    "current_performance": {
+      "overall_score": 43.25,
+      "improvement_rate": 0.3325
+    }
+  },
+  {
+    "session_number": 16,
+    "policy_decision": {
+      "selected_action": "friendliness",
+      "reward": -0.07700000000000001,
+      "ucb_scores": {
+        "clarity": 0.6806119159834841,
+        "active_listening": 0.692429130250518,
+        "call_to_action": 0.6860029305261639,
+        "friendliness": 0.7815685587438637
+      }
+    },
+    "coaching_card": {
+      "session_idx": 15,
+      "focus_skill": "Friendliness & Respectful Tone",
+      "why_this_focus": "Your tone could benefit from more warmth and personal connection to put prospects at ease.",
+      "micro_exercises": [
+        "Start your next call by finding one genuine commonality with the prospect within the first 2 minutes.",
+        "Record yourself speaking. Listen back: Do you sound like you're smiling? Adjust your tone to sound warmer.",
+        "Practice using their name 2-3 times naturally during the conversation. Notice how it changes the dynamic."
+      ],
+      "word_count": 65
+    },
+    "practice_scenario": {
+      "session_idx": 15,
+      "focus_skill": "Friendliness",
+      "difficulty": 0.45,
+      "persona": "Defensive skeptic, 36, testing whether you're 'just selling'",
+      "opening_objection": "I don't know anyone who plays this. Would I just be joining random strangers?",
+      "follow_ups": [
+        "You seem nice, but I'm still not convinced this is for someone like me.",
+        "How do I know the other players will be welcoming? I've had bad experiences."
+      ],
+      "difficulty_toggles": {
+        "Cold Opening": "They start defensive: \"Make this quick. I don't have much time.\"",
+        "Trust Test": "They explicitly test if you're authentic: \"Are you reading from a script?\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 24.0,
+      "improvement_rate": -0.1925
+    }
+  },
+  {
+    "session_number": 17,
+    "policy_decision": {
+      "selected_action": "clarity",
+      "reward": -0.03900000000000001,
+      "ucb_scores": {
+        "clarity": 0.7467187919973413,
+        "active_listening": 0.7286674765353398,
+        "call_to_action": 0.7151401106354034,
+        "friendliness": 0.6411676567454379
+      }
+    },
+    "coaching_card": {
+      "session_idx": 16,
+      "focus_skill": "Clarity & Enthusiasm",
+      "why_this_focus": "Your clarity metrics suggest room for sharper, more compelling messaging about our gaming community's value.",
+      "micro_exercises": [
+        "Record yourself explaining our gaming community in 30 seconds. Count filler words ('um', 'like'). Aim for under 3.",
+        "Write your top 3 selling points for our gaming community. Practice delivering each in one breath.",
+        "Before your next call, create a 'hook sentence' that captures our gaming community's unique appeal in under 15 words."
+      ],
+      "word_count": 68
+    },
+    "practice_scenario": {
+      "session_idx": 16,
+      "focus_skill": "Clarity",
+      "difficulty": 0.45,
+      "persona": "College student, 20, distracted, needs compelling hook to stay engaged",
+      "opening_objection": "Why should I play this instead of [popular alternative]? What's the difference?",
+      "follow_ups": [
+        "You're giving me a lot of information... can you just give me the main reason to try it?",
+        "I still don't get it. What would my first hour actually look like?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "They interrupt after 90 seconds: \"Can you wrap this up? I have another call.\"",
+        "Stronger Skepticism": "They push back twice as hard: \"My friend said this game is overhyped. Prove them wrong.\""
+      }
+    },
+    "current_performance": {
+      "overall_score": 14.25,
+      "improvement_rate": -0.0975
+    }
+  },
+  {
+    "session_number": 18,
+    "policy_decision": {
+      "selected_action": "active_listening",
+      "reward": 0.023000000000000003,
+      "ucb_scores": {
+        "clarity": 0.6551873674513328,
+        "active_listening": 0.7727270188456243,
+        "call_to_action": 0.7640857886621821,
+        "friendliness": 0.7099169648735569
+      }
+    },
+    "coaching_card": {
+      "session_idx": 17,
+      "focus_skill": "Active Listening & Objection Handling",
+      "why_this_focus": "You asked questions in only 12% of turns. More questions = deeper understanding of their needs.",
+      "micro_exercises": [
+        "During your next conversation, repeat back the prospect's concern in your own words before responding.",
+        "Create a list of 5 common objections. For each, write a validating phrase (e.g., 'I hear that...').",
+        "Practice the 3-second pause: After they finish speaking, count to 3 before you respond. Notice what you catch."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 17,
+      "focus_skill": "Active Listening",
+      "difficulty": 0.45,
+      "persona": "Anxious newcomer, 25, worried about skill level and fitting in",
+      "opening_objection": "I tried a game like this before and the community was toxic. How is this different?",
+      "follow_ups": [
+        "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?",
+        "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+      ],
+      "difficulty_toggles": {
+        "Multiple Concerns": "They layer 3 objections at once instead of 1.",
+        "Emotional Intensity": "They sound frustrated/anxious; mishandling tone ends the call."
+      }
+    },
+    "current_performance": {
+      "overall_score": 20.0,
+      "improvement_rate": 0.0575
+    }
+  },
+  {
+    "session_number": 19,
+    "policy_decision": {
+      "selected_action": "call_to_action",
+      "reward": -0.03900000000000001,
+      "ucb_scores": {
+        "clarity": 0.7440600527258996,
+        "active_listening": 0.7879007959876273,
+        "call_to_action": 0.9001989477025505,
+        "friendliness": 0.7904718307043179
+      }
+    },
+    "coaching_card": {
+      "session_idx": 18,
+      "focus_skill": "Effective Call to Action",
+      "why_this_focus": "Your closing invitations could be more concrete and easier for prospects to act on.",
+      "micro_exercises": [
+        "Write 3 versions of your closing invitation. Each must include a specific day/time option.",
+        "Practice saying: 'Based on what you've shared, I think [specific session] would be perfect. Can you join us Thursday at 7 PM?'",
+        "Role-play with a friend: Give them an objection, then practice pivoting to a concrete next step."
+      ],
+      "word_count": 66
+    },
+    "practice_scenario": {
+      "session_idx": 18,
+      "focus_skill": "Call To Action",
+      "difficulty": 0.45,
+      "persona": "Interested but non-committal, 30, needs gentle push to concrete action",
+      "opening_objection": "I'm not sure I'm ready to commit to a session yet. What if I just lurk first?",
+      "follow_ups": [
+        "That's a lot to consider. What exactly are you asking me to do right now?",
+        "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+      ],
+      "difficulty_toggles": {
+        "Time Pressure": "You have only 2 minutes to secure commitment before they \"have to go.\"",
+        "Analysis Paralysis": "They ask for 3+ more details before committing; you must redirect firmly but kindly."
+      }
+    },
+    "current_performance": {
+      "overall_score": 10.25,
+      "improvement_rate": -0.0975
+    }
+  }
+]

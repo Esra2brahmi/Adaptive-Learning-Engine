@@ -1,0 +1,399 @@
+=== PRACTICE SCENARIO: Session 1 ===
+
+🎮 FOCUS SKILL: Clarity
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Professional, 42, time-conscious, wants efficiency and clear benefits
+
+OPENING:
+"I've heard of this game, but I'm not really sure what makes it special. Can you explain?"
+
+FOLLOW-UP CHALLENGES:
+1. "You're giving me a lot of information... can you just give me the main reason to try it?"
+2. "I still don't get it. What would my first hour actually look like?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] They interrupt after 90 seconds: "Can you wrap this up? I have another call."
+  [Stronger Skepticism] They push back twice as hard: "My friend said this game is overhyped. Prove them wrong."
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 2 ===
+
+🎮 FOCUS SKILL: Clarity
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Busy parent, 35, skeptical of gaming, needs clear value proposition
+
+OPENING:
+"Why should I play this instead of [popular alternative]? What's the difference?"
+
+FOLLOW-UP CHALLENGES:
+1. "You're giving me a lot of information... can you just give me the main reason to try it?"
+2. "I still don't get it. What would my first hour actually look like?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] They interrupt after 90 seconds: "Can you wrap this up? I have another call."
+  [Stronger Skepticism] They push back twice as hard: "My friend said this game is overhyped. Prove them wrong."
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 3 ===
+
+🎮 FOCUS SKILL: Active Listening
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Anxious newcomer, 25, worried about skill level and fitting in
+
+OPENING:
+"I tried a game like this before and the community was toxic. How is this different?"
+
+FOLLOW-UP CHALLENGES:
+1. "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?"
+2. "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Multiple Concerns] They layer 3 objections at once instead of 1.
+  [Emotional Intensity] They sound frustrated/anxious; mishandling tone ends the call.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 4 ===
+
+🎮 FOCUS SKILL: Call To Action
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Interested but non-committal, 30, needs gentle push to concrete action
+
+OPENING:
+"This sounds interesting, but I need to think about it. Can I get back to you?"
+
+FOLLOW-UP CHALLENGES:
+1. "That's a lot to consider. What exactly are you asking me to do right now?"
+2. "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] You have only 2 minutes to secure commitment before they "have to go."
+  [Analysis Paralysis] They ask for 3+ more details before committing; you must redirect firmly but kindly.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 5 ===
+
+🎮 FOCUS SKILL: Friendliness
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Lonely player, 31, craves community but fears rejection
+
+OPENING:
+"I don't know anyone who plays this. Would I just be joining random strangers?"
+
+FOLLOW-UP CHALLENGES:
+1. "You seem nice, but I'm still not convinced this is for someone like me."
+2. "How do I know the other players will be welcoming? I've had bad experiences."
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Cold Opening] They start defensive: "Make this quick. I don't have much time."
+  [Trust Test] They explicitly test if you're authentic: "Are you reading from a script?"
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 6 ===
+
+🎮 FOCUS SKILL: Active Listening
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Critical thinker, 38, asks probing questions to test your knowledge
+
+OPENING:
+"I'm interested, but I have some concerns about the time commitment and learning curve."
+
+FOLLOW-UP CHALLENGES:
+1. "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?"
+2. "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Multiple Concerns] They layer 3 objections at once instead of 1.
+  [Emotional Intensity] They sound frustrated/anxious; mishandling tone ends the call.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 7 ===
+
+🎮 FOCUS SKILL: Friendliness
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Lonely player, 31, craves community but fears rejection
+
+OPENING:
+"I don't know anyone who plays this. Would I just be joining random strangers?"
+
+FOLLOW-UP CHALLENGES:
+1. "You seem nice, but I'm still not convinced this is for someone like me."
+2. "How do I know the other players will be welcoming? I've had bad experiences."
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Cold Opening] They start defensive: "Make this quick. I don't have much time."
+  [Trust Test] They explicitly test if you're authentic: "Are you reading from a script?"
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 8 ===
+
+🎮 FOCUS SKILL: Clarity
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Professional, 42, time-conscious, wants efficiency and clear benefits
+
+OPENING:
+"Okay, so... what exactly would I be doing? I'm kind of confused about the gameplay."
+
+FOLLOW-UP CHALLENGES:
+1. "You're giving me a lot of information... can you just give me the main reason to try it?"
+2. "I still don't get it. What would my first hour actually look like?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] They interrupt after 90 seconds: "Can you wrap this up? I have another call."
+  [Stronger Skepticism] They push back twice as hard: "My friend said this game is overhyped. Prove them wrong."
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 9 ===
+
+🎮 FOCUS SKILL: Call To Action
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Interested but non-committal, 30, needs gentle push to concrete action
+
+OPENING:
+"This sounds interesting, but I need to think about it. Can I get back to you?"
+
+FOLLOW-UP CHALLENGES:
+1. "That's a lot to consider. What exactly are you asking me to do right now?"
+2. "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] You have only 2 minutes to secure commitment before they "have to go."
+  [Analysis Paralysis] They ask for 3+ more details before committing; you must redirect firmly but kindly.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 10 ===
+
+🎮 FOCUS SKILL: Active Listening
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Former gamer, 28, burned out, has specific past negative experiences
+
+OPENING:
+"I tried a game like this before and the community was toxic. How is this different?"
+
+FOLLOW-UP CHALLENGES:
+1. "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?"
+2. "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Multiple Concerns] They layer 3 objections at once instead of 1.
+  [Emotional Intensity] They sound frustrated/anxious; mishandling tone ends the call.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 11 ===
+
+🎮 FOCUS SKILL: Call To Action
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Interested but non-committal, 30, needs gentle push to concrete action
+
+OPENING:
+"I'm not sure I'm ready to commit to a session yet. What if I just lurk first?"
+
+FOLLOW-UP CHALLENGES:
+1. "That's a lot to consider. What exactly are you asking me to do right now?"
+2. "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] You have only 2 minutes to secure commitment before they "have to go."
+  [Analysis Paralysis] They ask for 3+ more details before committing; you must redirect firmly but kindly.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 12 ===
+
+🎮 FOCUS SKILL: Friendliness
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Lonely player, 31, craves community but fears rejection
+
+OPENING:
+"I don't know anyone who plays this. Would I just be joining random strangers?"
+
+FOLLOW-UP CHALLENGES:
+1. "You seem nice, but I'm still not convinced this is for someone like me."
+2. "How do I know the other players will be welcoming? I've had bad experiences."
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Cold Opening] They start defensive: "Make this quick. I don't have much time."
+  [Trust Test] They explicitly test if you're authentic: "Are you reading from a script?"
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 13 ===
+
+🎮 FOCUS SKILL: Clarity
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Professional, 42, time-conscious, wants efficiency and clear benefits
+
+OPENING:
+"I've heard of this game, but I'm not really sure what makes it special. Can you explain?"
+
+FOLLOW-UP CHALLENGES:
+1. "You're giving me a lot of information... can you just give me the main reason to try it?"
+2. "I still don't get it. What would my first hour actually look like?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] They interrupt after 90 seconds: "Can you wrap this up? I have another call."
+  [Stronger Skepticism] They push back twice as hard: "My friend said this game is overhyped. Prove them wrong."
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 14 ===
+
+🎮 FOCUS SKILL: Active Listening
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Critical thinker, 38, asks probing questions to test your knowledge
+
+OPENING:
+"I'm interested, but I have some concerns about the time commitment and learning curve."
+
+FOLLOW-UP CHALLENGES:
+1. "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?"
+2. "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Multiple Concerns] They layer 3 objections at once instead of 1.
+  [Emotional Intensity] They sound frustrated/anxious; mishandling tone ends the call.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 15 ===
+
+🎮 FOCUS SKILL: Call To Action
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Schedule-juggler, 29, needs very specific timing options
+
+OPENING:
+"I'm not sure I'm ready to commit to a session yet. What if I just lurk first?"
+
+FOLLOW-UP CHALLENGES:
+1. "That's a lot to consider. What exactly are you asking me to do right now?"
+2. "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] You have only 2 minutes to secure commitment before they "have to go."
+  [Analysis Paralysis] They ask for 3+ more details before committing; you must redirect firmly but kindly.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 16 ===
+
+🎮 FOCUS SKILL: Friendliness
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Defensive skeptic, 36, testing whether you're 'just selling'
+
+OPENING:
+"I don't know anyone who plays this. Would I just be joining random strangers?"
+
+FOLLOW-UP CHALLENGES:
+1. "You seem nice, but I'm still not convinced this is for someone like me."
+2. "How do I know the other players will be welcoming? I've had bad experiences."
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Cold Opening] They start defensive: "Make this quick. I don't have much time."
+  [Trust Test] They explicitly test if you're authentic: "Are you reading from a script?"
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 17 ===
+
+🎮 FOCUS SKILL: Clarity
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: College student, 20, distracted, needs compelling hook to stay engaged
+
+OPENING:
+"Why should I play this instead of [popular alternative]? What's the difference?"
+
+FOLLOW-UP CHALLENGES:
+1. "You're giving me a lot of information... can you just give me the main reason to try it?"
+2. "I still don't get it. What would my first hour actually look like?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] They interrupt after 90 seconds: "Can you wrap this up? I have another call."
+  [Stronger Skepticism] They push back twice as hard: "My friend said this game is overhyped. Prove them wrong."
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 18 ===
+
+🎮 FOCUS SKILL: Active Listening
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Anxious newcomer, 25, worried about skill level and fitting in
+
+OPENING:
+"I tried a game like this before and the community was toxic. How is this different?"
+
+FOLLOW-UP CHALLENGES:
+1. "It sounds like you're just reading from a script. Did you hear what I just said about my schedule?"
+2. "You keep talking about features, but I told you my main concern is [X]. Can you address that?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Multiple Concerns] They layer 3 objections at once instead of 1.
+  [Emotional Intensity] They sound frustrated/anxious; mishandling tone ends the call.
+
+
+======================================================================
+
+=== PRACTICE SCENARIO: Session 19 ===
+
+🎮 FOCUS SKILL: Call To Action
+📊 BASE DIFFICULTY: 0.45
+
+PERSONA: Interested but non-committal, 30, needs gentle push to concrete action
+
+OPENING:
+"I'm not sure I'm ready to commit to a session yet. What if I just lurk first?"
+
+FOLLOW-UP CHALLENGES:
+1. "That's a lot to consider. What exactly are you asking me to do right now?"
+2. "I hear you, but 'sometime soon' is too vague. When specifically works for me?"
+
+🔧 DIFFICULTY TOGGLES (0.55):
+  [Time Pressure] You have only 2 minutes to secure commitment before they "have to go."
+  [Analysis Paralysis] They ask for 3+ more details before committing; you must redirect firmly but kindly.
+
+
+======================================================================
+
